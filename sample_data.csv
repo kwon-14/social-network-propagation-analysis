@@ -1,0 +1,16 @@
+source,target,interact_type,weight
+1,2,comment,3
+2,1,like,2
+2,5,forward,5
+3,4,like,2
+4,3,forward,5
+5,6,comment,3
+6,5,like,2
+7,8,forward,5
+8,7,comment,3
+9,10,like,2
+10,9,comment,3
+3,7,forward,5
+5,9,comment,3
+7,1,like,2
+9,3,forward,5
